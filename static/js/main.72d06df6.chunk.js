@@ -1,2 +1,0 @@
-(this["webpackJsonptrindadethiago.io"]=this["webpackJsonptrindadethiago.io"]||[]).push([[0],{9:function(e,t,i){"use strict";i.r(t);var n=i(0),r=i(1),c=i.n(r),d=i(3);var o=function(){return Object(n.jsx)("div",{children:Object(n.jsx)("h1",{children:" Thiago Trindade"})})};i.n(d).a.render(Object(n.jsx)(c.a.StrictMode,{children:Object(n.jsx)(o,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.72d06df6.chunk.js.map
