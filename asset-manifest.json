@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/trindadethiago.github.io/static/js/main.7124c599.chunk.js",
-    "main.js.map": "/trindadethiago.github.io/static/js/main.7124c599.chunk.js.map",
+    "main.js": "/trindadethiago.github.io/static/js/main.c089905a.chunk.js",
+    "main.js.map": "/trindadethiago.github.io/static/js/main.c089905a.chunk.js.map",
     "runtime-main.js": "/trindadethiago.github.io/static/js/runtime-main.2fbe2f4a.js",
     "runtime-main.js.map": "/trindadethiago.github.io/static/js/runtime-main.2fbe2f4a.js.map",
-    "static/js/2.c42f0528.chunk.js": "/trindadethiago.github.io/static/js/2.c42f0528.chunk.js",
-    "static/js/2.c42f0528.chunk.js.map": "/trindadethiago.github.io/static/js/2.c42f0528.chunk.js.map",
+    "static/js/2.6e613bf4.chunk.js": "/trindadethiago.github.io/static/js/2.6e613bf4.chunk.js",
+    "static/js/2.6e613bf4.chunk.js.map": "/trindadethiago.github.io/static/js/2.6e613bf4.chunk.js.map",
     "index.html": "/trindadethiago.github.io/index.html",
-    "static/js/2.c42f0528.chunk.js.LICENSE.txt": "/trindadethiago.github.io/static/js/2.c42f0528.chunk.js.LICENSE.txt"
+    "static/js/2.6e613bf4.chunk.js.LICENSE.txt": "/trindadethiago.github.io/static/js/2.6e613bf4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2fbe2f4a.js",
-    "static/js/2.c42f0528.chunk.js",
-    "static/js/main.7124c599.chunk.js"
+    "static/js/2.6e613bf4.chunk.js",
+    "static/js/main.c089905a.chunk.js"
   ]
 }
